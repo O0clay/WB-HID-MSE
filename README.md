@@ -11,4 +11,5 @@ This repository contains the hardware design files, firmware source code, and do
 3.) Optimize power consumption for battery-powered operation
 4.) Enable modular, replaceable hardware components
 5.) Follow industry standard design practices. 
+6.) Learn and have fun along the way!
 
