@@ -1,5 +1,5 @@
 # WB-HID-MSE (µPoint)
-##Modular Low-Power BLE Computer Mouse
+## Modular Low-Power BLE Computer Mouse
 
 WB-HID-MSE (µPoint) is a custom-designed, ultra-low-power Bluetooth Low Energy (BLE) Human Interface Device (HID) mouse built around the STM32WB series microcontroller. The project focuses on modular hardware design, power efficiency, and product-grade embedded firmware architecture.
 
