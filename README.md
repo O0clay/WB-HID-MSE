@@ -6,12 +6,12 @@ WB-HID-MSE (µPoint) is a custom-designed, ultra-low-power Bluetooth Low Energy 
 This repository contains the hardware design files, firmware source code, and documentation for the µPoint platform.
 
 ## Project Goals
-1.) Design a custom PCB for a wireless BLE mouse
-2.) Implement BLE HID using an integrated RF MCU
-3.) Optimize power consumption for battery-powered operation
-4.) Enable modular, replaceable hardware components
-5.) Follow industry standard design practices. 
-6.) Learn and have fun along the way!
+- Design a custom PCB for a wireless BLE mouse
+- Implement BLE HID using an integrated RF MCU
+- Optimize power consumption for battery-powered operation
+- Enable modular, replaceable hardware components
+- Follow industry standard design practices. 
+- Learn and have fun along the way!
 
 ## Developer Log
 Follow project progress & updates in the [Developer Log](DEVLOG.md) 
