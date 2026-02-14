@@ -8,5 +8,6 @@
 
 TODO: 
 - Add PMW3360 sensor to schematic
+- Add a switch and double check power system
 - Begin design layout for PCB
 
